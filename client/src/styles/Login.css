@@ -1,0 +1,9 @@
+.wrapper {
+  height: 100vh;
+}
+
+.login {
+  width: 300px;
+  height: min-content;
+  border-radius: 10px;
+}
